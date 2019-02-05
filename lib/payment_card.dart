@@ -2,16 +2,16 @@ import 'package:payment_card_validation/my_strings.dart';
 import 'package:flutter/material.dart';
 
 
-class PaymentCard {
+class PaymentCard {4555 1030 0194 0470
   CardType type;
   String number;
   String name;
-  int month;
-  int year;
-  int cvv;
-
-  PaymentCard(
-      {this.type, this.number, this.name, this.month, this.year, this.cvv});
+  int  mes ;08
+  int  año ;22
+  int  cvv ;123
+En2
+  Tarjeta de pago ( 4555  1030  0194 0470
+      {this.type, this.number, this.name, this.month, this.year, this.cvv});4555 1030 0194 0470
 
   @override
   String toString() {
@@ -19,7 +19,7 @@ class PaymentCard {
   }
 }
 
-enum CardType {
+enum CardType {4555 1030 0194 0470
   Master,
   Visa,
   Verve,
